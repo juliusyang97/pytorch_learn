@@ -9,7 +9,25 @@
 资料来源于B站：小土堆
 学习视频地址：https://www.bilibili.com/video/BV1hE411t7RN
 
-PyTorch深度学习快速入门教程（绝对通俗易懂！）【小土堆】笔记https://blog.csdn.net/sinat_39448069/article/details/120866541
+CSDN笔记：https://blog.csdn.net/sinat_39448069/article/details/120866541
 
 ### 3. pytorch快速入门
 > https://www.bilibili.com/video/BV1iv41117Zg
+
+
+### 入门 -- python  
+- 1. python快速入门
+- 2. 科学计算库 - Numpy
+- 3. 数据分析处理库 - Pandas
+- 4. 可视化库 - Matplotlib
+- 5. 可视化库 - Seaborn
+
+- opencv -- 工具，，知道有折磨回事就好
+目标检测实践项目
+  图像分割
+  行为识别 -- slowfast
+
+transformer --  可能是未来的趋势； cv & nlp
+                缺点：无法解决数据少的场景;
+
+知识图谱 ： cv & nlp -- 可学

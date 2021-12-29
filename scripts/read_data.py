@@ -8,7 +8,7 @@ import os
 class MyData(Dataset):
 # class MyData():
 
-    def __init__(self, root_dir, label_dir):
+    def __init__(self, root_dir, label_dir):  # 初始化类
         self.root_dir = root_dir
         self.label_dir = label_dir
         self.path = os.path.join(self.root_dir, self.label_dir)
@@ -27,8 +27,10 @@ class MyData(Dataset):
 
 root_dir = "./dataset/train"
 ants_label_dir = "ants"
+bees_label_dir = "bees"
 ants_dataset = MyData(root_dir, ants_label_dir)
+bees_dataset = MyData(root_dir, bees_label_dir)
 
 
-
+train_dataset = ants_dataset + bees_dataset  # 数据集拼接在一起
 
