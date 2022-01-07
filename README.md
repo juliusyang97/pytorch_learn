@@ -19,6 +19,8 @@ CSDN笔记：https://blog.csdn.net/sinat_39448069/article/details/120866541
 > https://www.bilibili.com/video/BV1iv41117Zg
 
 
+
+**唐宇迪聊工程师**
 ### 入门 -- python  
 - 1. python快速入门
 - 2. 科学计算库 - Numpy
