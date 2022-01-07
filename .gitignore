@@ -133,4 +133,4 @@ dmypy.json
 .ipynb_checkpoints
 dataset/cifar*
 
-./logs
+logs
