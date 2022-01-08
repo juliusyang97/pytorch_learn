@@ -134,3 +134,4 @@ dmypy.json
 dataset/cifar*
 
 logs
+models
