@@ -2,7 +2,7 @@
 
 **pytroch学习总结**   
 > 1. pytorch官方60分钟入门中文翻译版；  -- 已完成
-> 2. B站：小土堆，PyTorch深度学习快速入门教程  -- 进行中
+> 2. B站：小土堆，PyTorch深度学习快速入门教程  -- 进行中 --> 完成：2022年01月08日17:52:46
 
 ### 1. Deep Learning with PyTorch: A 60 Minute Blitz
 > https://github.com/fengdu78/Data-Science-Notes/tree/master/8.deep-learning/PyTorch_beginner  
