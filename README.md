@@ -8,7 +8,13 @@
      > -- 进行中 --> 完成：2022年01月08日17:52:46
 > 3. B站：Pytorch深度学习实战教学_唐宇迪   
      > -- 进行中  
-     > （start：2022年01月20日17:20:12） 
+     > start：2022年01月20日17:20:12 -- p1-p4  
+     > 看评论好像不友好对新手，暂时搁浅。。。  
+> 
+> 4. B站：《PyTorch深度学习实践》完结合集 -- 刘二大人   
+     > -- 进行中   
+     > --  start：2022年01月20日18:30:15
+     > -- 2022年01月20日23:13:58 --> p1-p3
 
 
 
@@ -26,9 +32,11 @@ CSDN笔记：https://blog.csdn.net/sinat_39448069/article/details/120866541
 ### 3. pytorch快速入门
 > https://www.bilibili.com/video/BV1iv41117Zg
 
-### 4.Pytorch深度学习实战教学 - 唐宇迪
+### 4. Pytorch深度学习实战教学 - 唐宇迪
 > https://www.bilibili.com/video/BV1Zv4y1o7uG?p=2  
-> 
+
+### 5. 《PyTorch深度学习实践》完结合集 - Hongpu Liu
+> https://www.bilibili.com/video/BV1Y7411d7Ys
 
 ## 三、番外篇
 **唐宇迪聊工程师**
