@@ -36,7 +36,8 @@ CSDN笔记：https://blog.csdn.net/sinat_39448069/article/details/120866541
 > https://www.bilibili.com/video/BV1Zv4y1o7uG?p=2  
 
 ### 5. 《PyTorch深度学习实践》完结合集 - Hongpu Liu
-> https://www.bilibili.com/video/BV1Y7411d7Ys
+> https://www.bilibili.com/video/BV1Y7411d7Ys  
+> 课后练习：https://blog.csdn.net/bit452/category_10569531.html
 
 ## 三、番外篇
 **唐宇迪聊工程师**
